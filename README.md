@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb! <br/><a href="https://github.com/calebjsec">U.S. Army Veteran</a>, <a href="https://www.linkedin.com/in/calebjsec/">Cyber Security Professional</a></h1>
+<h1>Hi, I'm Dylan! <br/><a href="https://github.com/dylanssec">U.S. Army Veteran</a>, <a href="https://www.linkedin.com/in/calebjsec/">Cyber Security Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -6,6 +6,7 @@
 
 <h2>IT Certifications</h2>
 
+- <b>CompTIA Security+</b>
 - <b>CompTIA Network+</b>
 - <b>CompTIA Cloud Essentials+</b>
 - <b>CompTIA IT Fundamentals+</b>
@@ -18,4 +19,4 @@
 
 [<img align="left" alt="Caleb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/calebjsec
+[linkedin]: www.linkedin.com/in/dylan-segui
