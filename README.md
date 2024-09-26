@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [VPN-Deployment-with-BDF-XDP-Technology-by-Path-Network](https://github.com/dylanssec/VPN-Deployment-with-eBPF-XDP-Technology-by-Path-Network)
+- [VPN-Deployment-with-eBPF-XDP-Technology-by-Path-Network](https://github.com/dylanssec/VPN-Deployment-with-eBPF-XDP-Technology-by-Path-Network)
 
 <h2>IT Certifications</h2>
 
